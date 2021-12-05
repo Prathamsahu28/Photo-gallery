@@ -1,0 +1,42 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "golden-temple.jpg",
+      "caption"  : "Golden Temple",
+      "location" : "Amritsar, India"
+    },
+
+    {
+      
+      "src"      : "temple.jpg",
+      "caption"  : "Kandariya Mahadeva Temple",
+      "location" : "Khajuraho, India"
+    },
+
+    {
+      "src"      : "taj-mahal.jpg",
+      "caption"  : "Taj Mahal",
+      "location" : "Agra, India"
+    },
+
+    {
+      "src"      : "front-view-red.jpg",
+      "caption"  : "Red Fort",
+      "location" : "Old Delhi, India"
+    },  
+
+    {
+      
+      "src"      : "statue-unity.jpg",
+      "caption"  : "Statue of Unity",
+      "location" : "Gujarat, India"
+    },
+
+    {
+      "src"      : "india-gate.jpg",
+      "caption"  : "India Gate",
+      "location" : "New Delh, India"
+    }
+  ]
+}
